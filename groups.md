@@ -1,12 +1,12 @@
 # Teoria dei gruppi
 
 ## Definizione di gruppo
-Il concetto di gruppo è strettamente legato a quello di funzione biunivoca. Consideriamo le funzioni biunivoche definite su un insieme $E$. Dato un qualunque insieme *finito* $E$ contenente $n$ elementi vi sono esattamente $n!$ distinte funzioni biunivoche definite su di esso. Ciascuna funzione infatti definisce una corrispondenza tra ciascuno degli $n$ elementi -- preso come argomento -- ed uno degli altri preso come vaInfatti, scelto uno degli $n$ elementi $x_1$  per ogni elemento $x \in E$ risulta ben definito un unico elemento $x' \in E$ tale che $fDenotiamo con $S$ l'insieme di tali funzioni. 
+Il concetto di gruppo è strettamente legato a quello di funzione biunivoca. Consideriamo le funzioni biunivoche definite su un insieme $E$. Dato un qualunque insieme *finito* $E$ contenente $n$ elementi vi sono esattamente $n!$ distinte funzioni biunivoche definite su di esso. Ciascuna funzione infatti definisce una corrispondenza tra ciascuno degli $n$ elementi -- preso come argomento -- ed uno degli altri preso come vaòlorInfatti, scelto uno degli $n$ elementi $x_1$  per ogni elemento $x \in E$ risulta ben definito un unico elemento $x' \in E$ tale che $fDenotiamo con $S$ l'insieme di tali funzioni. 
   () di ele, precisamente 
 
 A quick primer into group theory is provider in Appendix I of "Geometry" (Brannan, Esplen, Gray). 
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTE2MzY3Ml19
+eyJoaXN0b3J5IjpbMTEwMzA4OTI0M119
 -->
