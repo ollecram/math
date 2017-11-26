@@ -3,7 +3,7 @@
 ## Funzioni, composizione, associatività
 Il concetto di gruppo è strettamente legato a quello di funzione. Per chiarire questo legame consideriamo l'insieme $S$ delle funzioni biunivoche definite su un insieme $E$. 
 
-In particolare, dato un qualunque insieme *finito* $E$ contenente $n$ elementi esistono $n!$ distinte funzioni biunivoche su di esso, dette *permutazioni* di $n$ elementi. Ciascuna funzione $f_i$ definisce infatti una *corrispondenza* tra ciascuno degli $n$ elementi $x \i$ preso come *argomento* ed un elemento $y = f_i(x)$ preso come *valore*. 
+In particolare, dato un qualunque insieme *finito* $E$ contenente $n$ elementi esistono $n!$ distinte funzioni biunivoche su di esso, dette *permutazioni* di $n$ elementi. Ciascuna funzione $f_i$ definisce infatti una *corrispondenza* tra ciascuno degli $n$ elementi $x \in E$ preso come *argomento* ed un elemento $y = f_i(x)$ preso come *valore*. 
 
 Per l'assunto di biunivocità l'insieme dei valori di una qualunque $f_i(x)$ coincide con $E$ ed esiste la funzione *inversa* $f^{-1}_i$ definita dalla proprietà 
 $$f^{-1}_i(f_i(x)) = x = f_i(f^{-1}_i(x))$$
@@ -24,6 +24,6 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU2NTk3NjUsLTUwNTA0NTcxOCwtMz
-k0MDEzNjBdfQ==
+eyJoaXN0b3J5IjpbMTg4MDUwMjk2NCwtNTA1MDQ1NzE4LC0zOT
+QwMTM2MF19
 -->
