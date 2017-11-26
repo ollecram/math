@@ -20,7 +20,7 @@ $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
 Un approccio alla soluzione è tentare l'identificazione di ciascun elemento $x$ dell'insieme $A$ con una *trasformazione* dell'insieme $A$ in se stesso. Se questa identificazione è possibile la risposta è positiva in virtù delle associatività della composizione di funzioni.
 
 Per fare un esempio concreto, consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali e chiediamoci se per qualsiasi $a, b, c \in \mathcal Z$ valga:
-$$ c + (b + a) = (c + b) \diamond a$$
+$$ c + (b + a) = (c + b) +iamond a$$
 
 
  
@@ -29,7 +29,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjIyODU0NiwtMTE4NDgxMDY1MCwxMT
+eyJoaXN0b3J5IjpbMTc1MzYyODY5OSwtMTE4NDgxMDY1MCwxMT
 c5MjM1OTQxLDgyMjA2NzM3MywtNTA1MDQ1NzE4LC0zOTQwMTM2
 MF19
 -->
