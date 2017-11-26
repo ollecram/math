@@ -22,7 +22,7 @@ Per rispondere alla domanda si può tentare l'identificazione di ciascun element
 Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali.  Nella maggior parte delle presentazioni moderne è assunto come *assioma* che per tale operazione valga la proprietà associativa, ovvero che per qualsiasi $a, b, c \in \mathcal Z$ valga
 $$c + (b + a) = (c + b) + a$$
 
-Ora identifichiamo ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. In virtù della proprietà associativa della composizione di funzioni
+Ora identifichiamo ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. In virtù della proprietà associativa della composizione di funzioni otteniamo:
 $$ f_{c} \circ (f_{b} \circ f_{a})(x) = f_{c}(f_{b}(f_{a}(x))) =(f_{c} \circ f_{b}) \circ f_{a}(x)$$
 Questo risultato è compatibile 
 
@@ -35,8 +35,8 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYyNDg4NjIsOTMxMDY4NTA4LC0xNz
-EyMDc0MjczLC0zMTYzMjk3OTYsLTE3MjI4OTM2MjgsLTM4MTYw
-NTg5NywtMTMyNzE3NTEyMCwtODY4NDM4Nzk4LC04Njg0Mzg3OT
-hdfQ==
+eyJoaXN0b3J5IjpbMTA4ODY5MDIzNiw5MzEwNjg1MDgsLTE3MT
+IwNzQyNzMsLTMxNjMyOTc5NiwtMTcyMjg5MzYyOCwtMzgxNjA1
+ODk3LC0xMzI3MTc1MTIwLC04Njg0Mzg3OTgsLTg2ODQzODc5OF
+19
 -->
