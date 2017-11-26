@@ -40,7 +40,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G,
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
-L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. 
+L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$.  
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -60,7 +60,7 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MzYwODcsMTI4ODE5MjA3MSwzODQ3OT
+eyJoaXN0b3J5IjpbLTcxMjQ1NDc2MywyNTczNjA4NywzODQ3OT
 M3NjEsLTE3ODE3NjAwODcsLTEzNjk4ODA0NjIsMTE0NzE0MDcw
 NCw2NzIzNDYyOTIsLTIxMjUyNjI1MTgsLTE1MjMxMjAwNzYsLT
 E5OTAwMTU3MjAsODY4NTUyMTEyLDE4OTMwNjM4MjYsLTE2NDA2
