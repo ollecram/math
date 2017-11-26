@@ -23,7 +23,8 @@ Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'ins
 $$c + (b + a) = (c + b) + a$$
 
 Ora identifichiamo ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. In virtù della proprietà associativa valida per la composizione di funzioni
-$$ f_{c} \circ (f_{b} \circ f_{a}) = h(g(f(x))) =(f_{c} \circ f_{b}) \circ f_{a} $$
+$$ f_{c} \circ (f_{b} \circ f_{a})(x) = f_{c}(f_{b}(f_{a}(x))) =(f_{c} \circ f_{b}) \circ f_{a}(x)$$
+
  
 
  
@@ -32,8 +33,8 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNjg2NjkyLDkzMTA2ODUwOCwtMTcxMj
-A3NDI3MywtMzE2MzI5Nzk2LC0xNzIyODkzNjI4LC0zODE2MDU4
-OTcsLTEzMjcxNzUxMjAsLTg2ODQzODc5OCwtODY4NDM4Nzk4XX
-0=
+eyJoaXN0b3J5IjpbLTcxOTYyNTUxMiw5MzEwNjg1MDgsLTE3MT
+IwNzQyNzMsLTMxNjMyOTc5NiwtMTcyMjg5MzYyOCwtMzgxNjA1
+ODk3LC0xMzI3MTc1MTIwLC04Njg0Mzg3OTgsLTg2ODQzODc5OF
+19
 -->
