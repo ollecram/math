@@ -22,7 +22,7 @@ Un approccio alla soluzione è tentare l'identificazione di ciascun elemento $x$
 Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali e cerchiamo di provare che per qualsiasi $a, b, c \in \mathcal Z$ valga:
 $$c + (b + a) = (c + b) + a$$
 
-Nella maggior parte delle presentazioni questa proprietà è assunta come 
+Nella maggior parte delle presentazioni questa proprietà è assunta come un assi
 
 
 
@@ -32,7 +32,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcyMzM1MjEsLTIyNTQxMDY4MiwtMT
-E4NDgxMDY1MCwxMTc5MjM1OTQxLDgyMjA2NzM3MywtNTA1MDQ1
-NzE4LC0zOTQwMTM2MF19
+eyJoaXN0b3J5IjpbMzkzMzI0MDgyLC0yMjU0MTA2ODIsLTExOD
+Q4MTA2NTAsMTE3OTIzNTk0MSw4MjIwNjczNzMsLTUwNTA0NTcx
+OCwtMzk0MDEzNjBdfQ==
 -->
