@@ -1,6 +1,6 @@
 # Teoria dei gruppi
 
-## Definizione di gruppo
+## Funzioni, composizione, associatività
 Il concetto di gruppo è strettamente legato a quello di funzione biunivoca. Consideriamo l'insieme $S$ delle funzioni biunivoche definite su un insieme $E$. 
 
 Come esempio, dato un qualunque insieme *finito* $E$ contenente $n$ elementi vi sono esattamente $n!$ distinte funzioni biunivoche definite su di esso. Ciascuna funzione $f_i$ definisce infatti una *corrispondenza* tra ciascuno degli $n$ elementi $x$ preso come *argomento* ed uno degli altri elementi $x' = f_i(x) \neq x$ preso come *valore*. Il numero di funzioni contenute in $S$ è dunque $n!$ cioè il numero delle *permutazioni* di $n$ elementi.
@@ -14,5 +14,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzA5NzE5MV19
+eyJoaXN0b3J5IjpbNjQxNzYzNDQ1XX0=
 -->
