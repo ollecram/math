@@ -40,7 +40,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G,
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
-L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato elemento   
+L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato elemento $$  
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -60,12 +60,12 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQxNjk1NzAsLTE3NzQxMTA3MzAsLT
-k1ODU5OTgxNCwtMTI0ODEwMjAxNiwtMTUwNDE3MTA3LC0xNTEx
-NzMxMDUwLDE5NjkyNzY3NDEsMjU3MzYwODcsMzg0NzkzNzYxLC
-0xNzgxNzYwMDg3LC0xMzY5ODgwNDYyLDExNDcxNDA3MDQsNjcy
-MzQ2MjkyLC0yMTI1MjYyNTE4LC0xNTIzMTIwMDc2LC0xOTkwMD
-E1NzIwLDg2ODU1MjExMiwxODkzMDYzODI2LC0xNjQwNjc2NTQy
-LDE2NTAwMDQ0MjgsMTU3ODA0NzI5OCwxNjQ4NDU3NDU4LDEyMj
-Q0NDQzOTAsMTcwMDcwOTI5OV19
+eyJoaXN0b3J5IjpbMTUyOTk4NDY3MCwtMjA1NDE2OTU3MCwtOT
+U4NTk5ODE0LC0xMjQ4MTAyMDE2LC0xNTA0MTcxMDcsLTE1MTE3
+MzEwNTAsMTk2OTI3Njc0MSwyNTczNjA4NywzODQ3OTM3NjEsLT
+E3ODE3NjAwODcsLTEzNjk4ODA0NjIsMTE0NzE0MDcwNCw2NzIz
+NDYyOTIsLTIxMjUyNjI1MTgsLTE1MjMxMjAwNzYsLTE5OTAwMT
+U3MjAsODY4NTUyMTEyLDE4OTMwNjM4MjYsLTE2NDA2NzY1NDIs
+MTY1MDAwNDQyOCwxNTc4MDQ3Mjk4LDE2NDg0NTc0NTgsMTIyND
+Q0NDM5MCwxNzAwNzA5Mjk5XX0=
 -->
