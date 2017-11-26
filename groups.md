@@ -22,7 +22,9 @@ Per rispondere alla domanda si può tentare l'identificazione di ciascun element
 Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali.  Nella maggior parte delle presentazioni moderne è assunto come *assioma* che per tale operazione valga la proprietà associativa, ovvero che per qualsiasi $a, b, c \in \mathcal Z$ valga
 $$c + (b + a) = (c + b) + a$$
 
-Identifichiamo ora ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. Da questa identificazione discende In virtù della proprietà associativa della composizione di funzioni otteniamo:
+Identifichiamo ora ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. Questa identificazione implica che 
+$$ f_{a+b}(x) = x + (a + b) = $$
+discende In virtù della proprietà associativa della composizione di funzioni otteniamo:
 $$(f_{c} \circ (f_{b} \circ f_{a}))(x) = f_{c}(f_{b}(f_{a}(x))) =((f_{c} \circ f_{b}) \circ f_{a})(x)$$
 $$(f_{c} \circ f_{b+a}(x) = f_{c+b+a}(x) =(f_{c+b} \circ f_{a})(x)$$
 
@@ -37,5 +39,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNjg2OTEzLC0yMjU4NTQ4MjddfQ==
+eyJoaXN0b3J5IjpbLTY4MjAzNzkzMywtMjI1ODU0ODI3XX0=
 -->
