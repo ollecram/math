@@ -11,8 +11,9 @@ $$f^{-1}_i(f_i(x)) = x = f_i(f^{-1}_i(x))$$
 Tra le funzioni in $S$ è sempre inclusa la *funzione identica* $e$ che fa corrispondere ciascun elemento di $E$ a se stesso:
 $$e(x) = x $$
 
-Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa a due elementi $f$ e $g$ di $S$ un elemento $g \circ f$ tale che per ogni $x \in E$ $(g \circ f)(x) = g(f(x))$. L'operazione di composizione gode della proprietà associativa. Con ciò si intende che comunque date tre funzioni $f, g, h$ vale 
+Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa a due elementi $f$ e $g$ di $S$ un elemento $g \circ f$ tale che per ogni $x \in E$ $(g \circ f)(x) = g(f(x))$. L'operazione di composizione gode della *proprietà associativa*. Con ciò si intende che comunque date tre funzioni $f, g, h$ vale 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
+
 
  
 
@@ -20,5 +21,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTIzODEwODddfQ==
+eyJoaXN0b3J5IjpbODUwMzkwMjc1XX0=
 -->
