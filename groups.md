@@ -40,7 +40,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G,
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
-L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma    
+L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n} = e$   
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -60,11 +60,11 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTk3NTY2MCwtMTUxMTczMTA1MCwxOT
-Y5Mjc2NzQxLDI1NzM2MDg3LDM4NDc5Mzc2MSwtMTc4MTc2MDA4
-NywtMTM2OTg4MDQ2MiwxMTQ3MTQwNzA0LDY3MjM0NjI5MiwtMj
-EyNTI2MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAxNTcyMCw4Njg1
-NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0ND
-I4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLDE3
-MDA3MDkyOTldfQ==
+eyJoaXN0b3J5IjpbLTE1MDQxNzEwNywxODkxOTc1NjYwLC0xNT
+ExNzMxMDUwLDE5NjkyNzY3NDEsMjU3MzYwODcsMzg0NzkzNzYx
+LC0xNzgxNzYwMDg3LC0xMzY5ODgwNDYyLDExNDcxNDA3MDQsNj
+cyMzQ2MjkyLC0yMTI1MjYyNTE4LC0xNTIzMTIwMDc2LC0xOTkw
+MDE1NzIwLDg2ODU1MjExMiwxODkzMDYzODI2LC0xNjQwNjc2NT
+QyLDE2NTAwMDQ0MjgsMTU3ODA0NzI5OCwxNjQ4NDU3NDU4LDEy
+MjQ0NDQzOTAsMTcwMDcwOTI5OV19
 -->
