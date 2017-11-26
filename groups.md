@@ -14,7 +14,9 @@ $$e(x) = x $$
 Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa a due elementi $f$ e $g$ di $S$ un elemento $g \circ f$ tale che per ogni $x \in E$ $(g \circ f)(x) = g(f(x))$. L'operazione di composizione gode della *proprietà associativa*. Con ciò si intende che comunque date tre funzioni $f, g, h$ vale 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
- Una funzione definita sull'insieme prodotto $S\times S$ a valori in $S$ si dice *operazioni binaria*. L'operazione $\circ$ definita sull'insieme $S$ rappresenta il modello cui possono essere ricondotte tutte le *operazioni binarie associative*. In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme e di chiedersi se per tale operazione valga la proprietà associativa:
+ Una funzione definita sull'insieme prodotto $S\times S$ a valori in $S$ si dice *operazioni binaria*. L'operazione $\circ$ definita sull'insieme $S$ rappresenta il modello cui possono essere ricondotte tutte le *operazioni binarie associative*. 
+
+In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme e di chiedersi se per tale operazione valga la proprietà associativa:
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
 La soluzione è di trovare una possibile identificazione degli elementi $a, b, c$ dell'insieme con delle funzioni (trasformazioni) dell'insieme in se stesso. Se questa identificazione è possibile l'associatività deriva immediatamente dalla identificazione dell'operazione 
  
@@ -23,5 +25,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAyMDY3MiwtOTE2ODk4NTAxXX0=
+eyJoaXN0b3J5IjpbMjAwMDkyMzY4NCwtOTE2ODk4NTAxXX0=
 -->
