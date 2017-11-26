@@ -39,6 +39,8 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 
+
+
  
 
  
@@ -47,6 +49,6 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODA0NzI5OCwxNjQ4NDU3NDU4LDEyMj
-Q0NDQzOTAsMTcwMDcwOTI5OV19
+eyJoaXN0b3J5IjpbLTQ4Njg4OTQ5OCwxNTc4MDQ3Mjk4LDE2ND
+g0NTc0NTgsMTIyNDQ0NDM5MCwxNzAwNzA5Mjk5XX0=
 -->
