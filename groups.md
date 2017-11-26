@@ -40,7 +40,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G,
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
-L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinat  
+L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato   
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -60,12 +60,12 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMDA3ODUwLC05NTg1OTk4MTQsLTEyND
-gxMDIwMTYsLTE1MDQxNzEwNywtMTUxMTczMTA1MCwxOTY5Mjc2
-NzQxLDI1NzM2MDg3LDM4NDc5Mzc2MSwtMTc4MTc2MDA4NywtMT
-M2OTg4MDQ2MiwxMTQ3MTQwNzA0LDY3MjM0NjI5MiwtMjEyNTI2
-MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAxNTcyMCw4Njg1NTIxMT
-IsMTg5MzA2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0NDI4LDE1
-NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLDE3MDA3MD
-kyOTldfQ==
+eyJoaXN0b3J5IjpbMTQ0NzQ4OTU5NSwtOTU4NTk5ODE0LC0xMj
+Q4MTAyMDE2LC0xNTA0MTcxMDcsLTE1MTE3MzEwNTAsMTk2OTI3
+Njc0MSwyNTczNjA4NywzODQ3OTM3NjEsLTE3ODE3NjAwODcsLT
+EzNjk4ODA0NjIsMTE0NzE0MDcwNCw2NzIzNDYyOTIsLTIxMjUy
+NjI1MTgsLTE1MjMxMjAwNzYsLTE5OTAwMTU3MjAsODY4NTUyMT
+EyLDE4OTMwNjM4MjYsLTE2NDA2NzY1NDIsMTY1MDAwNDQyOCwx
+NTc4MDQ3Mjk4LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MCwxNzAwNz
+A5Mjk5XX0=
 -->
