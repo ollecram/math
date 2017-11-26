@@ -41,7 +41,7 @@ In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico invers
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
 L'**ordine** di un *elemento* $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato elemento $g \in G$ che viene indicato come il **generatore** di $G$.  
-L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è in
+L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinit
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -61,12 +61,12 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTQ3ODAwLC0yNTM5MjkyMywtMjA1ND
-E2OTU3MCwtOTU4NTk5ODE0LC0xMjQ4MTAyMDE2LC0xNTA0MTcx
-MDcsLTE1MTE3MzEwNTAsMTk2OTI3Njc0MSwyNTczNjA4NywzOD
-Q3OTM3NjEsLTE3ODE3NjAwODcsLTEzNjk4ODA0NjIsMTE0NzE0
-MDcwNCw2NzIzNDYyOTIsLTIxMjUyNjI1MTgsLTE1MjMxMjAwNz
-YsLTE5OTAwMTU3MjAsODY4NTUyMTEyLDE4OTMwNjM4MjYsLTE2
-NDA2NzY1NDIsMTY1MDAwNDQyOCwxNTc4MDQ3Mjk4LDE2NDg0NT
-c0NTgsMTIyNDQ0NDM5MCwxNzAwNzA5Mjk5XX0=
+eyJoaXN0b3J5IjpbLTQ4MDI1MDI0NiwtMjUzOTI5MjMsLTIwNT
+QxNjk1NzAsLTk1ODU5OTgxNCwtMTI0ODEwMjAxNiwtMTUwNDE3
+MTA3LC0xNTExNzMxMDUwLDE5NjkyNzY3NDEsMjU3MzYwODcsMz
+g0NzkzNzYxLC0xNzgxNzYwMDg3LC0xMzY5ODgwNDYyLDExNDcx
+NDA3MDQsNjcyMzQ2MjkyLC0yMTI1MjYyNTE4LC0xNTIzMTIwMD
+c2LC0xOTkwMDE1NzIwLDg2ODU1MjExMiwxODkzMDYzODI2LC0x
+NjQwNjc2NTQyLDE2NTAwMDQ0MjgsMTU3ODA0NzI5OCwxNjQ4ND
+U3NDU4LDEyMjQ0NDQzOTAsMTcwMDcwOTI5OV19
 -->
