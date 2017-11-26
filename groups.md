@@ -23,7 +23,7 @@ Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'ins
 $$c + (b + a) = (c + b) + a$$
 
 Se ora identifichiamo ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga 
-$$ f_{a}(x) =$$
+$$ f_{a}(x) = $$
 
  
 
@@ -31,7 +31,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjMyOTc5NiwxNDcwODIxNzU5LC0xNz
-IyODkzNjI4LC0zODE2MDU4OTcsLTEzMjcxNzUxMjAsLTg2ODQz
-ODc5OCwtODY4NDM4Nzk4XX0=
+eyJoaXN0b3J5IjpbLTEzNzEzODU2MzYsLTMxNjMyOTc5NiwtMT
+cyMjg5MzYyOCwtMzgxNjA1ODk3LC0xMzI3MTc1MTIwLC04Njg0
+Mzg3OTgsLTg2ODQzODc5OF19
 -->
