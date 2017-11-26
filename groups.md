@@ -39,7 +39,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
-Un sottoinsieme $H$ di un gru
+Un sottoinsieme $H$ di un gruppo $
 
 
  
@@ -50,7 +50,8 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyOTEwMDkyLDg2ODU1MjExMiwxODkzMD
-YzODI2LC0xNjQwNjc2NTQyLDE2NTAwMDQ0MjgsMTU3ODA0NzI5
-OCwxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAsMTcwMDcwOTI5OV19
+eyJoaXN0b3J5IjpbLTE3OTk5OTI1MDEsODY4NTUyMTEyLDE4OT
+MwNjM4MjYsLTE2NDA2NzY1NDIsMTY1MDAwNDQyOCwxNTc4MDQ3
+Mjk4LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MCwxNzAwNzA5Mjk5XX
+0=
 -->
