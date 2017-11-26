@@ -13,7 +13,7 @@ $$e(x) = x $$
 Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa a due funzioni $f$ e $g$ di $S$ una funzione $g \circ f$ tale che per ogni $x \in E$ $(g \circ f)(x) = g(f(x))$. L'operazione di composizione di due funzioni gode della *proprietà associativa*. Con ciò si intende che comunque date tre funzioni $f, g, h$ vale 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
-Per un qualsiasi insieme $A$ una funzione definita sull'insieme prodotto $A\times A$ a valori in $A$ si dice *operazioni binaria*. L'operazione $\circ$ definita sull'insieme di funz $S$ rappresenta il modello cui possono essere ricondotte tutte le *operazioni binarie associative*. 
+Per un qualsiasi insieme $A$ una funzione definita sull'insieme prodotto $A\times A$ a valori in $A$ si dice *operazioni binaria*. L'operazione $\circ$ definita sull'insieme di funzioni  $S$ rappresenta il modello cui possono essere ricondotte tutte le *operazioni binarie associative*. 
 
 In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme e di chiedersi se per tale operazione valga la proprietà associativa:
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
@@ -24,6 +24,6 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk2MzM5NDUsODIyMDY3MzczLC01MD
+eyJoaXN0b3J5IjpbLTE2OTY1NzIyOTgsODIyMDY3MzczLC01MD
 UwNDU3MTgsLTM5NDAxMzYwXX0=
 -->
