@@ -47,7 +47,7 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 |:--|:--|:--|
 |SG1| Chiusura |$\forall h_{1},h_{2} \in H, h_{1} \circ h_{2} \in H$|
 |SG2| Identità |$e \in H$|
-|SG3| Inverso | Per ogni $h \in H$ $h^{-1} \in H$ |
+|SG3| Inverso | Per ogni $h \in H$,  $h^{-1} \in H$ |
 
 
 
@@ -58,9 +58,9 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDA1NjM4MCwxMTQ3MTQwNzA0LDY3Mj
-M0NjI5MiwtMjEyNTI2MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAx
-NTcyMCw4Njg1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0Mi
-wxNjUwMDA0NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0
-NDQ0MzkwLDE3MDA3MDkyOTldfQ==
+eyJoaXN0b3J5IjpbODQ3MTU2NDg4LDExNDcxNDA3MDQsNjcyMz
+Q2MjkyLC0yMTI1MjYyNTE4LC0xNTIzMTIwMDc2LC0xOTkwMDE1
+NzIwLDg2ODU1MjExMiwxODkzMDYzODI2LC0xNjQwNjc2NTQyLD
+E2NTAwMDQ0MjgsMTU3ODA0NzI5OCwxNjQ4NDU3NDU4LDEyMjQ0
+NDQzOTAsMTcwMDcwOTI5OV19
 -->
