@@ -45,9 +45,9 @@ Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un 
 Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsieme di $G$. Allora $(H, \circ )$ è un **sottogruppo** di $(G, \circ )$ se valgono i seguenti tre assiomi.
 ||||
 |:--|:--|:--|
-|SG1| Chiusura | $\forall h_{1},h_{2} \in H, h_{1} \circ h_{2} \in H$|
-|SG2| Identità |L'elemento identità $e \in H$|
-|SG3| Inverso | Per ogni $g \in G$ esiste un elemento inverso $g^{-1}  \in G$ tale che $$ g \circ g^{-1} = e = g^{-1} \circ g$$|
+|SG1| Chiusura |$\forall h_{1},h_{2} \in H, h_{1} \circ h_{2} \in H$|
+|SG2| Identità |$e \in H$|
+|SG3| Inverso | Per ogni $h \in H$ $h^{-1} \in H$ |
 
 
 
@@ -58,7 +58,7 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTc5MTAxMywxMTQ3MTQwNzA0LDY3Mj
+eyJoaXN0b3J5IjpbMTk3MDA1NjM4MCwxMTQ3MTQwNzA0LDY3Mj
 M0NjI5MiwtMjEyNTI2MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAx
 NTcyMCw4Njg1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0Mi
 wxNjUwMDA0NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0
