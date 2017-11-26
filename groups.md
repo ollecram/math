@@ -26,7 +26,7 @@ Identifichiamo ora ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} 
 $$(f_{c} \circ (f_{b} \circ f_{a}))(x) = f_{c}(f_{b}(f_{a}(x))) =((f_{c} \circ f_{b}) \circ f_{a})(x)$$
 $$(f_{c} \circ f_{b+a}(x) = f_{c+b+a}(x) =(f_{c+b} \circ f_{a})(x)$$
 
-Questo risultato indica che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con una funzione $f_{a} : \mathcal Z \mapsto \mathcal Z$ è consistente con l'assioma che  
+Questo risultato indica che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ è consistente con l'assioma che  
 
 
  
@@ -37,5 +37,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQyMTUzODYsLTIyNTg1NDgyN119
+eyJoaXN0b3J5IjpbMTI4MDExODkxNywtMjI1ODU0ODI3XX0=
 -->
