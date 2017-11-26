@@ -54,7 +54,7 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 Per un gruppo $G$ di **ordine finito** vale il **Teorema di Lagrange** secondo il quale l'ordine di ogni sottogruppo di $G$ divide l'ordine di $G$. 
 
-###
+### 
 
 
 
@@ -64,13 +64,13 @@ Per un gruppo $G$ di **ordine finito** vale il **Teorema di Lagrange** secondo i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjUxMDUzNiwxMzk3MjkxMzUxLC05Nj
-k4MTYyMzcsLTQ1MzY1NTU5NCwtMjUzOTI5MjMsLTIwNTQxNjk1
-NzAsLTk1ODU5OTgxNCwtMTI0ODEwMjAxNiwtMTUwNDE3MTA3LC
-0xNTExNzMxMDUwLDE5NjkyNzY3NDEsMjU3MzYwODcsMzg0Nzkz
-NzYxLC0xNzgxNzYwMDg3LC0xMzY5ODgwNDYyLDExNDcxNDA3MD
-QsNjcyMzQ2MjkyLC0yMTI1MjYyNTE4LC0xNTIzMTIwMDc2LC0x
-OTkwMDE1NzIwLDg2ODU1MjExMiwxODkzMDYzODI2LC0xNjQwNj
-c2NTQyLDE2NTAwMDQ0MjgsMTU3ODA0NzI5OCwxNjQ4NDU3NDU4
-LDEyMjQ0NDQzOTAsMTcwMDcwOTI5OV19
+eyJoaXN0b3J5IjpbLTIwMDI2MzMxNiwtOTIyNTEwNTM2LDEzOT
+cyOTEzNTEsLTk2OTgxNjIzNywtNDUzNjU1NTk0LC0yNTM5Mjky
+MywtMjA1NDE2OTU3MCwtOTU4NTk5ODE0LC0xMjQ4MTAyMDE2LC
+0xNTA0MTcxMDcsLTE1MTE3MzEwNTAsMTk2OTI3Njc0MSwyNTcz
+NjA4NywzODQ3OTM3NjEsLTE3ODE3NjAwODcsLTEzNjk4ODA0Nj
+IsMTE0NzE0MDcwNCw2NzIzNDYyOTIsLTIxMjUyNjI1MTgsLTE1
+MjMxMjAwNzYsLTE5OTAwMTU3MjAsODY4NTUyMTEyLDE4OTMwNj
+M4MjYsLTE2NDA2NzY1NDIsMTY1MDAwNDQyOCwxNTc4MDQ3Mjk4
+LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MCwxNzAwNzA5Mjk5XX0=
 -->
