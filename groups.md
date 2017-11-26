@@ -24,6 +24,7 @@ $$c + (b + a) = (c + b) + a$$
 
 Ora identifichiamo ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. In virtù della proprietà associativa della composizione di funzioni
 $$ f_{c} \circ (f_{b} \circ f_{a})(x) = f_{c}(f_{b}(f_{a}(x))) =(f_{c} \circ f_{b}) \circ f_{a}(x)$$
+Questo risultato è compatibile
 
 
  
@@ -34,8 +35,8 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjk0Nzg0Myw5MzEwNjg1MDgsLTE3MT
-IwNzQyNzMsLTMxNjMyOTc5NiwtMTcyMjg5MzYyOCwtMzgxNjA1
-ODk3LC0xMzI3MTc1MTIwLC04Njg0Mzg3OTgsLTg2ODQzODc5OF
-19
+eyJoaXN0b3J5IjpbLTE1MjcxNTczMDYsOTMxMDY4NTA4LC0xNz
+EyMDc0MjczLC0zMTYzMjk3OTYsLTE3MjI4OTM2MjgsLTM4MTYw
+NTg5NywtMTMyNzE3NTEyMCwtODY4NDM4Nzk4LC04Njg0Mzg3OT
+hdfQ==
 -->
