@@ -42,7 +42,7 @@ se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1
 
 L'**ordine** di un *elemento* $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato elemento $g \in G$ che viene indicato come il **generatore** di $G$.  
 L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinito diciamo che il gruppo ha **ordine infinito**.
-Per un gruppo $G$ di **ordine finito** vale il **Teor 
+Per un gruppo $G$ di **ordine finito** vale il **Teorema di L 
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -62,13 +62,13 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQxNzM3ODksMTM5NzI5MTM1MSwtOT
-Y5ODE2MjM3LC00NTM2NTU1OTQsLTI1MzkyOTIzLC0yMDU0MTY5
-NTcwLC05NTg1OTk4MTQsLTEyNDgxMDIwMTYsLTE1MDQxNzEwNy
-wtMTUxMTczMTA1MCwxOTY5Mjc2NzQxLDI1NzM2MDg3LDM4NDc5
-Mzc2MSwtMTc4MTc2MDA4NywtMTM2OTg4MDQ2MiwxMTQ3MTQwNz
-A0LDY3MjM0NjI5MiwtMjEyNTI2MjUxOCwtMTUyMzEyMDA3Niwt
-MTk5MDAxNTcyMCw4Njg1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MD
-Y3NjU0MiwxNjUwMDA0NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1
-OCwxMjI0NDQ0MzkwLDE3MDA3MDkyOTldfQ==
+eyJoaXN0b3J5IjpbMzIyNzg3NDk5LDEzOTcyOTEzNTEsLTk2OT
+gxNjIzNywtNDUzNjU1NTk0LC0yNTM5MjkyMywtMjA1NDE2OTU3
+MCwtOTU4NTk5ODE0LC0xMjQ4MTAyMDE2LC0xNTA0MTcxMDcsLT
+E1MTE3MzEwNTAsMTk2OTI3Njc0MSwyNTczNjA4NywzODQ3OTM3
+NjEsLTE3ODE3NjAwODcsLTEzNjk4ODA0NjIsMTE0NzE0MDcwNC
+w2NzIzNDYyOTIsLTIxMjUyNjI1MTgsLTE1MjMxMjAwNzYsLTE5
+OTAwMTU3MjAsODY4NTUyMTEyLDE4OTMwNjM4MjYsLTE2NDA2Nz
+Y1NDIsMTY1MDAwNDQyOCwxNTc4MDQ3Mjk4LDE2NDg0NTc0NTgs
+MTIyNDQ0NDM5MCwxNzAwNzA5Mjk5XX0=
 -->
