@@ -17,6 +17,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk1Njk1NTIsLTEzODQyMDI0NTYsMT
-g1MzU3NzgxNV19
+eyJoaXN0b3J5IjpbLTIwNDk1Njk1NTJdfQ==
 -->
