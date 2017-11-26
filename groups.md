@@ -19,7 +19,7 @@ In effetti capita in diversi contesti di definire una certa operazione $\diamond
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
 Un approccio alla soluzione è tentare l'identificazione di ciascun elemento $x$ dell'insieme $A$ con una *trasformazione* dell'insieme $A$ in se stesso. Se questa identificazione è possibile la risposta è positiva in virtù della associatività della composizione di funzioni.
 
-Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali.  Nella maggior parte delle presentazioni moderne è assunto come assioma a come un assiomae cerchiamo di provare che per qualsiasi $a, b, c \in \mathcal Z$ valga:
+Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali.  Nella maggior parte delle presentazioni moderne è assunto come assioma cha come un assiomae cerchiamo di provare che per qualsiasi $a, b, c \in \mathcal Z$ valga:
 $$c + (b + a) = (c + b) + a$$
 
 . 
@@ -32,7 +32,8 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU5OTk1NTMsLTE1NTQ4ODk5MiwzMz
-QzOTU0MTksLTIyNTQxMDY4MiwtMTE4NDgxMDY1MCwxMTc5MjM1
-OTQxLDgyMjA2NzM3MywtNTA1MDQ1NzE4LC0zOTQwMTM2MF19
+eyJoaXN0b3J5IjpbNDY0OTYyNTAsLTE0MTU5OTk1NTMsLTE1NT
+Q4ODk5MiwzMzQzOTU0MTksLTIyNTQxMDY4MiwtMTE4NDgxMDY1
+MCwxMTc5MjM1OTQxLDgyMjA2NzM3MywtNTA1MDQ1NzE4LC0zOT
+QwMTM2MF19
 -->
