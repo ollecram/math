@@ -29,7 +29,7 @@ $$ x + (a + b) = f_{a+b}(x) = (f_{b} \circ f_{a})(x) = (x+a) + b$$
 Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ impone che per l'operazione di addizione valga la proprietà associativa.  
 
 ## Definizione di gruppo
-Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ è un gruppo rispetto all'operazione $\circ$ se valgono i seguenti quattro assiomi.
+Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ è un **gruppo** rispetto all'operazione $\circ$ se valgono i seguenti quattro assiomi.
 ||||
 |:--|:--|:--|
 |G1| Chiusura | $\forall g_{1},g_{2} \in G, g_{1} \circ g_{2} \in G$|
@@ -45,5 +45,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MzQxOTI0XX0=
+eyJoaXN0b3J5IjpbLTk4MDg0ODYwNF19
 -->
