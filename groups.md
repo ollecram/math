@@ -40,7 +40,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G,
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
-L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinitotale  
+L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito*. tale  
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -60,10 +60,11 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MzI4Mjc0LDE5NjkyNzY3NDEsMjU3Mz
-YwODcsMzg0NzkzNzYxLC0xNzgxNzYwMDg3LC0xMzY5ODgwNDYy
-LDExNDcxNDA3MDQsNjcyMzQ2MjkyLC0yMTI1MjYyNTE4LC0xNT
-IzMTIwMDc2LC0xOTkwMDE1NzIwLDg2ODU1MjExMiwxODkzMDYz
-ODI2LC0xNjQwNjc2NTQyLDE2NTAwMDQ0MjgsMTU3ODA0NzI5OC
-wxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAsMTcwMDcwOTI5OV19
+eyJoaXN0b3J5IjpbMTY1MzAzNjAzNCwxOTY5Mjc2NzQxLDI1Nz
+M2MDg3LDM4NDc5Mzc2MSwtMTc4MTc2MDA4NywtMTM2OTg4MDQ2
+MiwxMTQ3MTQwNzA0LDY3MjM0NjI5MiwtMjEyNTI2MjUxOCwtMT
+UyMzEyMDA3NiwtMTk5MDAxNTcyMCw4Njg1NTIxMTIsMTg5MzA2
+MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0NDI4LDE1NzgwNDcyOT
+gsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLDE3MDA3MDkyOTldfQ==
+
 -->
