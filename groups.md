@@ -28,6 +28,7 @@ Da ciò segue
 $$ x + (a + b) = f_{a+b}(x) = (f_{b} \circ f_{a})(x) = (x+a) + b$$
 Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ impone che per l'operazione di addizione valga la proprietà associativa.  
 
+## Definizione di gruppo
 
  
 
@@ -37,5 +38,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MjkwNjA5LDE2MTgyNzYyNDRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzIyNTA1MDEsMTYxODI3NjI0NF19
 -->
