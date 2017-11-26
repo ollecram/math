@@ -16,12 +16,12 @@ $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
  Una funzione definita sull'insieme prodotto $S\times S$ a valori in $S$ si dice *operazioni binaria*. L'operazione $\circ$ definita sull'insieme $S$ rappresenta il modello cui possono essere ricondotte tutte le *operazioni binarie associative*. In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme e di chiedersi se per tale operazione valga la proprietà associativa:
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
-La soluzione è di trovare una possibile identificazione degli elementi $a, b, c$ dell'insieme con delle funzioni (trasformazioni) dell'insieme in se stesso. Se questa identificazione è possibile l'associatività deriva immediatamente dalla identificazione d
+La soluzione è di trovare una possibile identificazione degli elementi $a, b, c$ dell'insieme con delle funzioni (trasformazioni) dell'insieme in se stesso. Se questa identificazione è possibile l'associatività deriva immediatamente dalla identificazione dell'
  
 
 A quick primer into group theory is provider in Appendix I of "Geometry" (Brannan, Esplen, Gray). 
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDY5OTk3MCwtOTE2ODk4NTAxXX0=
+eyJoaXN0b3J5IjpbNjY4NDQxNTY4LC05MTY4OTg1MDFdfQ==
 -->
