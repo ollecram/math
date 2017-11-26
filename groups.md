@@ -14,12 +14,12 @@ $$e(x) = x $$
 Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa a due elementi $f$ e $g$ di $S$ un elemento $g \circ f$ tale che per ogni $x \in E$ $(g \circ f)(x) = g(f(x))$. L'operazione di composizione gode della *proprietà associativa*. Con ciò si intende che comunque date tre funzioni $f, g, h$ vale 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
-La composizione di due funzioni è un esempio di *operazioni binaria*: che godono della proprietà associativa. 
+La composizione di due funzioni è un esempio di *operazioni binaria*: una funzione che dall'insieme prodotto che godono della proprietà associativa. 
  
 
 A quick primer into group theory is provider in Appendix I of "Geometry" (Brannan, Esplen, Gray). 
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM5MzMyMDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MjMxOTI2OTVdfQ==
 -->
