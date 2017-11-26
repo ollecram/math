@@ -54,7 +54,7 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 Per un gruppo $G$ di **ordine finito** vale il **Teorema di Lagrange** secondo il quale l'ordine di ogni sottogruppo di $G$ divide l'ordine di $G$. 
 
-### 
+### Isomo
 
 
 
@@ -64,7 +64,7 @@ Per un gruppo $G$ di **ordine finito** vale il **Teorema di Lagrange** secondo i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI2MzMxNiwtOTIyNTEwNTM2LDEzOT
+eyJoaXN0b3J5IjpbLTk2NzIxMzAwNywtMjAwMjYzMzE2LDEzOT
 cyOTEzNTEsLTk2OTgxNjIzNywtNDUzNjU1NTk0LC0yNTM5Mjky
 MywtMjA1NDE2OTU3MCwtOTU4NTk5ODE0LC0xMjQ4MTAyMDE2LC
 0xNTA0MTcxMDcsLTE1MTE3MzEwNTAsMTk2OTI3Njc0MSwyNTcz
