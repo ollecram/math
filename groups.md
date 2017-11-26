@@ -18,12 +18,12 @@ $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
 In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme e di chiedersi se per tale operazione valga la proprietà associativa:
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
-Un approccio alla soluzione è cercare una possibile identificazione di ciascun elemento $x$ dell'insieme con una *trasformazione* dell'insieme in se stesso. Se questa identificazione è possibile l'associatività deriva direttamente dalla propriete proprietà della composizione di funzioni.
+Un approccio alla soluzione è cercare una possibile identificazione di ciascun elemento $x$ dell'insieme con una *trasformazione* dell'insieme in se stesso. Se questa identificazione è possibile l'associatività deriva direttamente dalla proprietà e proprietà della composizione di funzioni.
  
 
 A quick primer into group theory is provider in Appendix I of "Geometry" (Brannan, Esplen, Gray). 
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA2OTE3MzIsLTkxNjg5ODUwMV19
+eyJoaXN0b3J5IjpbMjE5MzAwMjY4LC05MTY4OTg1MDFdfQ==
 -->
