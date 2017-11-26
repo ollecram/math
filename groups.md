@@ -17,7 +17,7 @@ Per un qualsiasi insieme $A$ una funzione definita sull'insieme prodotto $A\time
 
 In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme $A$ e di chiedersi se per tale operazione valga la proprietà associativa, cioè se per qualsiasi $a, b, c \in A$ valga:
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
-Un approccio alla soluzione è tentare l'identificazione di ciascun elemento $x$ dell'insieme $A$ con una *trasformazione* dell'insieme $A$ in se stesso. Se questa identificazione è possibile la risposta è positiva in virtù della associatività della composizione di funzioni.
+Per rispondere alla domanda si può tentare l'identificazione di ciascun elemento $x$ dell'insieme $A$ con una *trasformazione* dell'insieme $A$ in se stesso. Se questa identificazione è possibile la risposta è positiva in virtù della associatività della composizione di funzioni.
 
 Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali.  Nella maggior parte delle presentazioni moderne è assunto come *assioma* che per tale operazione valga la proprietà associativa, ovvero che per qualsiasi $a, b, c \in \mathcal Z$ valga
 $$c + (b + a) = (c + b) + a$$
@@ -35,8 +35,8 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3Mjk1MDM4LDkzMTA2ODUwOCwtMTcxMj
-A3NDI3MywtMzE2MzI5Nzk2LC0xNzIyODkzNjI4LC0zODE2MDU4
-OTcsLTEzMjcxNzUxMjAsLTg2ODQzODc5OCwtODY4NDM4Nzk4XX
-0=
+eyJoaXN0b3J5IjpbLTE1NzYyNDg4NjIsOTMxMDY4NTA4LC0xNz
+EyMDc0MjczLC0zMTYzMjk3OTYsLTE3MjI4OTM2MjgsLTM4MTYw
+NTg5NywtMTMyNzE3NTEyMCwtODY4NDM4Nzk4LC04Njg0Mzg3OT
+hdfQ==
 -->
