@@ -26,11 +26,7 @@ Identifichiamo ora ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} 
 
 Da ciò segue 
 $$ x + (a + b) = f_{a+b}(x) = (f_{b} \circ f_{a})(x) = (x+a) + b$$
-Per la proprietà associativa della composizione di funzioni otteniamo:
-$$(f_{c} \circ (f_{b} \circ f_{a}))(x) = f_{c}(f_{b}(f_{a}(x))) =((f_{c} \circ f_{b}) \circ f_{a})(x)$$
-$$(f_{c} \circ f_{b+a}(x) = f_{c+b+a}(x) =(f_{c+b} \circ f_{a})(x)$$
-
-Questo risultato indica che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ è consistente con l'assioma che  
+Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ è consistente con l'assioma che  
 
 
  
@@ -41,7 +37,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI0OTA2OTMsLTIxODkwMzY0NywtMT
-M5NzU2NzUyMCwxODU2MzQ2MDA1LDk3MDgzMTkyNywtOTUwNzcy
-NTQsLTIyNTg1NDgyN119
+eyJoaXN0b3J5IjpbOTg0ODEyMzkzLC0yMTg5MDM2NDcsLTEzOT
+c1Njc1MjAsMTg1NjM0NjAwNSw5NzA4MzE5MjcsLTk1MDc3MjU0
+LC0yMjU4NTQ4MjddfQ==
 -->
