@@ -42,7 +42,12 @@ se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
-Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsieme di $G$. Allora $(H, \circ )$ è un **sottogruppo** di $(G, \circ )$ rispetto all'*operazione* $\circ$ se valgono i seguenti quattro assiomi.
+Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsieme di $G$. Allora $(H, \circ )$ è un **sottogruppo** di $(G, \circ )$ se valgono i seguenti tre assiomi.
+||||
+|:--|:--|:--|
+|SG1| Chiusura | $\forall g_{1},g_{2} \in G, g_{1} \circ g_{2} \in G$|
+|SG2| Identità |Esiste un elemento identità $e \in G$ tale che per ogni $g \in G$ $$g \circ e = g = e \circ g $$|
+|SG3| Inverso | Per ogni $g \in G$ esiste un elemento inverso $g^{-1}  \in G$ tale che $$ g \circ g^{-1} = e = g^{-1} \circ g$$|
 
 
 
@@ -53,7 +58,7 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDkwMDE5OCwxMTQ3MTQwNzA0LDY3Mj
+eyJoaXN0b3J5IjpbLTM0NTU2MTMwMSwxMTQ3MTQwNzA0LDY3Mj
 M0NjI5MiwtMjEyNTI2MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAx
 NTcyMCw4Njg1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0Mi
 wxNjUwMDA0NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0
