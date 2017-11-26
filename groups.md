@@ -41,7 +41,7 @@ In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico invers
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
 L'**ordine** di un *elemento* $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato elemento $g \in G$ che viene indicato come il **generatore** di $G$.  
-L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinito diciamo che il gruppo ha **ordine infin
+L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinito diciamo che il gruppo ha **ordine infinito
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -61,13 +61,13 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNTEyNjE1LC05Njk4MTYyMzcsLTQ1Mz
-Y1NTU5NCwtMjUzOTI5MjMsLTIwNTQxNjk1NzAsLTk1ODU5OTgx
-NCwtMTI0ODEwMjAxNiwtMTUwNDE3MTA3LC0xNTExNzMxMDUwLD
-E5NjkyNzY3NDEsMjU3MzYwODcsMzg0NzkzNzYxLC0xNzgxNzYw
-MDg3LC0xMzY5ODgwNDYyLDExNDcxNDA3MDQsNjcyMzQ2MjkyLC
-0yMTI1MjYyNTE4LC0xNTIzMTIwMDc2LC0xOTkwMDE1NzIwLDg2
-ODU1MjExMiwxODkzMDYzODI2LC0xNjQwNjc2NTQyLDE2NTAwMD
-Q0MjgsMTU3ODA0NzI5OCwxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAs
-MTcwMDcwOTI5OV19
+eyJoaXN0b3J5IjpbMTQ2NzQwMzA4MSwtOTY5ODE2MjM3LC00NT
+M2NTU1OTQsLTI1MzkyOTIzLC0yMDU0MTY5NTcwLC05NTg1OTk4
+MTQsLTEyNDgxMDIwMTYsLTE1MDQxNzEwNywtMTUxMTczMTA1MC
+wxOTY5Mjc2NzQxLDI1NzM2MDg3LDM4NDc5Mzc2MSwtMTc4MTc2
+MDA4NywtMTM2OTg4MDQ2MiwxMTQ3MTQwNzA0LDY3MjM0NjI5Mi
+wtMjEyNTI2MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAxNTcyMCw4
+Njg1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMD
+A0NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0Mzkw
+LDE3MDA3MDkyOTldfQ==
 -->
