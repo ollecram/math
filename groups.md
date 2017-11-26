@@ -41,7 +41,7 @@ In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico invers
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
 L'**ordine** di un *elemento* $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato elemento $g \in G$ che viene indicato come il **generatore** di $G$.  
-L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinito diciamo che il gruppo ha **
+L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinito diciamo che il gruppo ha **ordine 
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -61,13 +61,13 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg5NjY4MTQsLTQ1MzY1NTU5NCwtMj
-UzOTI5MjMsLTIwNTQxNjk1NzAsLTk1ODU5OTgxNCwtMTI0ODEw
-MjAxNiwtMTUwNDE3MTA3LC0xNTExNzMxMDUwLDE5NjkyNzY3ND
-EsMjU3MzYwODcsMzg0NzkzNzYxLC0xNzgxNzYwMDg3LC0xMzY5
-ODgwNDYyLDExNDcxNDA3MDQsNjcyMzQ2MjkyLC0yMTI1MjYyNT
-E4LC0xNTIzMTIwMDc2LC0xOTkwMDE1NzIwLDg2ODU1MjExMiwx
-ODkzMDYzODI2LC0xNjQwNjc2NTQyLDE2NTAwMDQ0MjgsMTU3OD
-A0NzI5OCwxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAsMTcwMDcwOTI5
-OV19
+eyJoaXN0b3J5IjpbMTk3NTIyNDYxOSwtNDUzNjU1NTk0LC0yNT
+M5MjkyMywtMjA1NDE2OTU3MCwtOTU4NTk5ODE0LC0xMjQ4MTAy
+MDE2LC0xNTA0MTcxMDcsLTE1MTE3MzEwNTAsMTk2OTI3Njc0MS
+wyNTczNjA4NywzODQ3OTM3NjEsLTE3ODE3NjAwODcsLTEzNjk4
+ODA0NjIsMTE0NzE0MDcwNCw2NzIzNDYyOTIsLTIxMjUyNjI1MT
+gsLTE1MjMxMjAwNzYsLTE5OTAwMTU3MjAsODY4NTUyMTEyLDE4
+OTMwNjM4MjYsLTE2NDA2NzY1NDIsMTY1MDAwNDQyOCwxNTc4MD
+Q3Mjk4LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MCwxNzAwNzA5Mjk5
+XX0=
 -->
