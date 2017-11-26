@@ -39,7 +39,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
-Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima 
+Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima ope
 
 
  
@@ -50,8 +50,8 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjcxMTEyMCw4Njg1NTIxMTIsMTg5Mz
-A2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0NDI4LDE1NzgwNDcy
-OTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLDE3MDA3MDkyOTldfQ
-==
+eyJoaXN0b3J5IjpbLTE5OTAwMTU3MjAsLTg0NjcxMTEyMCw4Nj
+g1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0
+NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLD
+E3MDA3MDkyOTldfQ==
 -->
