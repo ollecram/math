@@ -29,7 +29,7 @@ $$ x + (a + b) = f_{a+b}(x) = (f_{b} \circ f_{a})(x) = (x+a) + b$$
 Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ impone che per l'operazione di addizione valga la proprietà associativa.  
 
 ## Definizione di gruppo
-Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ è un **gruppo** rispetto all'*operazione* $\circ$ se valgono i seguenti quattro assiomi.
+Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G, \circ )$ è un **gruppo** rispetto all'*operazione* $\circ$ se valgono i seguenti quattro assiomi.
 ||||
 |:--|:--|:--|
 |G1| Chiusura | $\forall g_{1},g_{2} \in G, g_{1} \circ g_{2} \in G$|
@@ -52,8 +52,8 @@ Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA0OTU3MDQsLTE5OTAwMTU3MjAsOD
-Y4NTUyMTEyLDE4OTMwNjM4MjYsLTE2NDA2NzY1NDIsMTY1MDAw
-NDQyOCwxNTc4MDQ3Mjk4LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MC
-wxNzAwNzA5Mjk5XX0=
+eyJoaXN0b3J5IjpbMjA4OTc5Nzk3MCwtMTk5MDAxNTcyMCw4Nj
+g1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0
+NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLD
+E3MDA3MDkyOTldfQ==
 -->
