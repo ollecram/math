@@ -19,13 +19,14 @@ In effetti capita in diversi contesti di definire una certa operazione $\diamond
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
 Un approccio alla soluzione è tentare una possibile identificazione di ciascun elemento $x$ dell'insieme $A$ con una *trasformazione* dell'insieme $A$ in se stesso. Se questa identificazione è possibile la risposta è positiva in virtù delle associatività della composizione di funzioni.
 
+
  
 
 A quick primer into group theory is provider in Appendix I of "Geometry" (Brannan, Esplen, Gray). 
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ4MTA2NTAsLTcwOTkzMjM2MCwxMT
+eyJoaXN0b3J5IjpbMjAxODY1MzMzMiwtMTE4NDgxMDY1MCwxMT
 c5MjM1OTQxLDgyMjA2NzM3MywtNTA1MDQ1NzE4LC0zOTQwMTM2
 MF19
 -->
