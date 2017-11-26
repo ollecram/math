@@ -37,7 +37,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 |G3| Inverso | Per ogni $g \in G$ esiste un elemento inverso $g^{-1}  \in G$ tale che $$ g \circ g^{-1} = e = g^{-1} \circ g$$|
 |G4|Associatività |Per ogni $g_{1},g_{2},g_{3} \in G$, $$g_{1} \circ (g_{2} \circ g_{3}) = (g_{1} \circ g_{2}) \circ g_{3}$$  |
 
-In ogni gruppo l'elemento identità è
+In ogni gruppo l'elemento identità è unico
 
  
 
@@ -47,6 +47,6 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDQ0NDM5MCwtODE5NDM2Nzk4LDE3MD
+eyJoaXN0b3J5IjpbMTg2MzA5MjEzMCwxMjI0NDQ0MzkwLDE3MD
 A3MDkyOTldfQ==
 -->
