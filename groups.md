@@ -22,7 +22,7 @@ Un approccio alla soluzione è tentare l'identificazione di ciascun elemento $x$
 Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'insieme $\mathcal Z$ degli interi naturali.  Nella maggior parte delle presentazioni moderne è assunto come *assioma* che per tale operazione valga la proprietà associativa, ovvero che per qualsiasi $a, b, c \in \mathcal Z$ valga
 $$c + (b + a) = (c + b) + a$$
 
-Se ora identifichiamo ciascun elemento $
+Se ora identifichiamo ciascun elemento $x$
 
  
 
@@ -30,6 +30,6 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTE3OTI1MiwtODY4NDM4Nzk4LC04Nj
-g0Mzg3OThdfQ==
+eyJoaXN0b3J5IjpbNzQ4Njk0MTEyLC04Njg0Mzg3OTgsLTg2OD
+QzODc5OF19
 -->
