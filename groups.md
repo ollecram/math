@@ -14,12 +14,13 @@ $$e(x) = x $$
 Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa a due elementi $f$ e $g$ di $S$ un elemento $g \circ f$ tale che per ogni $x \in E$ $(g \circ f)(x) = g(f(x))$. L'operazione di composizione gode della *proprietà associativa*. Con ciò si intende che comunque date tre funzioni $f, g, h$ vale 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
- Una funzione definita sull'insieme prodotto $S\times S$ a valori in $S$. In un certo senso La composizione di due funzioni è un esempio di
+ Una funzione definita sull'insieme prodotto $S\times S$ a valori in $S$ . In un certo senso La composizione di due funzioni è un esempio di
  
 
 A quick primer into group theory is provider in Appendix I of "Geometry" (Brannan, Esplen, Gray). 
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDU3MTE1NywxOTYwMTY4NTA2XX0=
+eyJoaXN0b3J5IjpbLTEzNDg4MTIxNjksMTA3MDU3MTE1NywxOT
+YwMTY4NTA2XX0=
 -->
