@@ -30,7 +30,6 @@ Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di cia
 
 ## Definizione di gruppo
 Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ è un **gruppo** rispetto all'*operazione* $\circ$ se valgono i seguenti quattro assiomi.
-### Definizione ###
 ||||
 |:--|:--|:--|
 |G1| Chiusura | $\forall g_{1},g_{2} \in G, g_{1} \circ g_{2} \in G$|
@@ -40,6 +39,8 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
+
+### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. 
 
 
@@ -51,7 +52,7 @@ Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc2MTI5MTAsLTE5OTAwMTU3MjAsOD
+eyJoaXN0b3J5IjpbLTE0OTA0OTU3MDQsLTE5OTAwMTU3MjAsOD
 Y4NTUyMTEyLDE4OTMwNjM4MjYsLTE2NDA2NzY1NDIsMTY1MDAw
 NDQyOCwxNTc4MDQ3Mjk4LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MC
 wxNzAwNzA5Mjk5XX0=
