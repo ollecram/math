@@ -26,7 +26,7 @@ Identifichiamo ora ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} 
 
 Da ciò segue 
 $$ x + (a + b) = f_{a+b}(x) = (f_{b} \circ f_{a})(x) = (x+a) + b$$
-Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ è consistente con l'assioma che  
+Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di ciascun elemento di $A$ con la funzione $f_{a}(x) = x+a$ impone che è consistente con l'assioma che  
 
 
  
@@ -37,7 +37,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0ODEyMzkzLC0yMTg5MDM2NDcsLTEzOT
-c1Njc1MjAsMTg1NjM0NjAwNSw5NzA4MzE5MjcsLTk1MDc3MjU0
-LC0yMjU4NTQ4MjddfQ==
+eyJoaXN0b3J5IjpbMTYzNzc2MTk2NywtMjE4OTAzNjQ3LC0xMz
+k3NTY3NTIwLDE4NTYzNDYwMDUsOTcwODMxOTI3LC05NTA3NzI1
+NCwtMjI1ODU0ODI3XX0=
 -->
