@@ -23,7 +23,7 @@ Per fare un esempio concreto consideriamo l'operazione di addizione $+$ nell'ins
 $$c + (b + a) = (c + b) + a$$
 
 Identifichiamo ora ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. Questa identificazione implica che 
-$$ f_{b+a}(x) = x + (b + a) = (f_{b} \circ f_{b+a})(x) $$
+$$ f_{b+a}(x) = x + (b + a) = (f_{b} \circ f_{a})(x) $$
 discende In virtù della proprietà associativa della composizione di funzioni otteniamo:
 $$(f_{c} \circ (f_{b} \circ f_{a}))(x) = f_{c}(f_{b}(f_{a}(x))) =((f_{c} \circ f_{b}) \circ f_{a})(x)$$
 $$(f_{c} \circ f_{b+a}(x) = f_{c+b+a}(x) =(f_{c+b} \circ f_{a})(x)$$
@@ -39,5 +39,6 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDc3MjU0LC0yMjU4NTQ4MjddfQ==
+eyJoaXN0b3J5IjpbMTk3MTg5NTcxNSwtOTUwNzcyNTQsLTIyNT
+g1NDgyN119
 -->
