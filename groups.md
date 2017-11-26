@@ -30,10 +30,10 @@ Questo risultato dimostra che l'identificazione $a \leftrightarrow f_{a}$ di cia
 
 ## Definizione di gruppo
 Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ è un gruppo rispetto all'operazione $\circ$ se valgono i seguenti quattro assiomi.
-|G1| Chiusura |
-|G2| Identità |
-|G3| Inverse	 |
-|G4| 	Associatività |
+|G1| Chiusura | |
+|G2| Identità | |
+|G3| Inverse	 | |
+|G4| 	Associatività | |
 
  
 
@@ -43,7 +43,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjYxNzIzNCwtOTk0MjgxODcwLC0xMz
-QzMjA4NDM0LC00NzUwOTkwMzEsLTExNzQ4MzUxNzksMTYxODI3
-NjI0NF19
+eyJoaXN0b3J5IjpbNzM0ODQ4MjAyLC05OTQyODE4NzAsLTEzND
+MyMDg0MzQsLTQ3NTA5OTAzMSwtMTE3NDgzNTE3OSwxNjE4Mjc2
+MjQ0XX0=
 -->
