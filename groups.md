@@ -38,7 +38,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 |G4|Associatività |Per ogni $g_{1},g_{2},g_{3} \in G$, $$g_{1} \circ (g_{2} \circ g_{3}) = (g_{1} \circ g_{2}) \circ g_{3}$$  |
 
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
-se l'operazione binaria $\circ$ di un gruppo $G$ è commutativa 
+se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $ g_{1} \circ (g_{2} = g_{2} \circ (g_{1}$
 
 
  
@@ -49,7 +49,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNjM5Mzk0LDE2NTAwMDQ0MjgsMTU3OD
-A0NzI5OCwxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAsMTcwMDcwOTI5
-OV19
+eyJoaXN0b3J5IjpbLTE2NDA2NzY1NDIsMTY1MDAwNDQyOCwxNT
+c4MDQ3Mjk4LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MCwxNzAwNzA5
+Mjk5XX0=
 -->
