@@ -33,7 +33,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 |G1| Chiusura |
 |G2| Identità |
 |G3| Inverse	 |
-|G4| 	A |
+|G4| 	Associat |
 
  
 
@@ -43,7 +43,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDI4MTg3MCwtMTU1Nzk4NTQ5NywtMT
-M0MzIwODQzNCwtNDc1MDk5MDMxLC0xMTc0ODM1MTc5LDE2MTgy
-NzYyNDRdfQ==
+eyJoaXN0b3J5IjpbMzY0OTg2MDk0LC05OTQyODE4NzAsLTEzND
+MyMDg0MzQsLTQ3NTA5OTAzMSwtMTE3NDgzNTE3OSwxNjE4Mjc2
+MjQ0XX0=
 -->
