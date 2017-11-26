@@ -25,7 +25,7 @@ $$c + (b + a) = (c + b) + a$$
 Identifichiamo ora ciascun elemento $a \in \mathcal Z$ con una funzione  $f_{a} : \mathcal Z \mapsto \mathcal Z$ tale che per ogni $x \in \mathcal Z$ valga $f_{a}(x) = x + a$. 
 
 Da ciò segue 
-$$ f_{b+a}(x) = x + (b + a) = (x+a) + b = (f_{b} \circ f_{a})(x)$$
+$$ x + (b + a) = (x+a) + b = (f_{b} \circ f_{a})(x)$$
 Per la proprietà associativa della composizione di funzioni otteniamo:
 $$(f_{c} \circ (f_{b} \circ f_{a}))(x) = f_{c}(f_{b}(f_{a}(x))) =((f_{c} \circ f_{b}) \circ f_{a})(x)$$
 $$(f_{c} \circ f_{b+a}(x) = f_{c+b+a}(x) =(f_{c+b} \circ f_{a})(x)$$
@@ -41,6 +41,6 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjM0NjAwNSw5NzA4MzE5MjcsLTk1MD
-c3MjU0LC0yMjU4NTQ4MjddfQ==
+eyJoaXN0b3J5IjpbLTEzOTc1Njc1MjAsMTg1NjM0NjAwNSw5Nz
+A4MzE5MjcsLTk1MDc3MjU0LC0yMjU4NTQ4MjddfQ==
 -->
