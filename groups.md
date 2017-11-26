@@ -41,7 +41,7 @@ In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico invers
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
 L'**ordine** di un *elemento* $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato elemento $g \in G$ che viene indicato come il **generatore** di $G$.  
-L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinito diciamo che 
+L'**ordine** di un *gruppo* $G$ è il numero dei suoi elementi. Se questo numero è infinito diciamo che il
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -61,12 +61,13 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDcyMTgwNjEsLTI1MzkyOTIzLC0yMD
-U0MTY5NTcwLC05NTg1OTk4MTQsLTEyNDgxMDIwMTYsLTE1MDQx
-NzEwNywtMTUxMTczMTA1MCwxOTY5Mjc2NzQxLDI1NzM2MDg3LD
-M4NDc5Mzc2MSwtMTc4MTc2MDA4NywtMTM2OTg4MDQ2MiwxMTQ3
-MTQwNzA0LDY3MjM0NjI5MiwtMjEyNTI2MjUxOCwtMTUyMzEyMD
-A3NiwtMTk5MDAxNTcyMCw4Njg1NTIxMTIsMTg5MzA2MzgyNiwt
-MTY0MDY3NjU0MiwxNjUwMDA0NDI4LDE1NzgwNDcyOTgsMTY0OD
-Q1NzQ1OCwxMjI0NDQ0MzkwLDE3MDA3MDkyOTldfQ==
+eyJoaXN0b3J5IjpbLTQ1MzY1NTU5NCwtMTM0NzIxODA2MSwtMj
+UzOTI5MjMsLTIwNTQxNjk1NzAsLTk1ODU5OTgxNCwtMTI0ODEw
+MjAxNiwtMTUwNDE3MTA3LC0xNTExNzMxMDUwLDE5NjkyNzY3ND
+EsMjU3MzYwODcsMzg0NzkzNzYxLC0xNzgxNzYwMDg3LC0xMzY5
+ODgwNDYyLDExNDcxNDA3MDQsNjcyMzQ2MjkyLC0yMTI1MjYyNT
+E4LC0xNTIzMTIwMDc2LC0xOTkwMDE1NzIwLDg2ODU1MjExMiwx
+ODkzMDYzODI2LC0xNjQwNjc2NTQyLDE2NTAwMDQ0MjgsMTU3OD
+A0NzI5OCwxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAsMTcwMDcwOTI5
+OV19
 -->
