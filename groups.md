@@ -13,9 +13,9 @@ $$e(x) = x $$
 Sull'insieme $S$ è definita l'operazione di *composizione* $\circ$ che associa a due funzioni $f$ e $g$ di $S$ una funzione $g \circ f$ tale che per ogni $x \in E$ $(g \circ f)(x) = g(f(x))$. Dalla definizione segue che l'operazione di composizione tra funzioni gode della *proprietà associativa*. Con ciò si intende che comunque date tre funzioni $f, g, h$ vale 
 $$ h \circ (g \circ f) = h(g(f(x))) =(h \circ g) \circ f $$
 
-Per un qualsiasi insieme $A$ una funzione definita sull'insieme prodotto $A\times A$ a valori in $A$ si dice *operazioni binaria*. L'operazione $\circ$ definita sull'insieme di funzioni $S$ rappresenta il modello cui possono essere ricondotte tutte le *operazioni binarie associative*. 
+Per un qualsiasi insieme $A$ una funzione definita sull'insieme prodotto $A\times A$ a valori in $A$ si dice *operazioni binaria*. 
 
-In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme $A$ e di chiedersi se per tale operazione valga la proprietà associativa, cioè se per qualsiasi $a, b, c \in A$ valga:
+In un senso che ora cerchiamo di precisare, l'operazione $\circ$ definita sull'insieme di funzioni $S$ rappresenta un modello cui possono essere ricondotte tutte le *operazioni binarie associative*. In effetti capita in diversi contesti di definire una certa operazione $\diamond$ in un insieme $A$ e di chiedersi se per tale operazione valga la proprietà associativa, cioè se per qualsiasi $a, b, c \in A$ valga:
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
 Per rispondere alla domanda si può tentare l'identificazione di ciascun elemento $x$ dell'insieme $A$ con una *trasformazione* dell'insieme $A$ in se stesso. Se questa identificazione è possibile la risposta è positiva in virtù della associatività della composizione di funzioni.
 
@@ -37,5 +37,5 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDg5NTc1OSwxNjE4Mjc2MjQ0XX0=
+eyJoaXN0b3J5IjpbNTQ3MjkwNjA5LDE2MTgyNzYyNDRdfQ==
 -->
