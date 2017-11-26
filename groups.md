@@ -40,7 +40,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G,
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
-L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e 
+L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$ 
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -60,10 +60,10 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NzkzNzYxLC0xNzgxNzYwMDg3LC0xMz
-Y5ODgwNDYyLDExNDcxNDA3MDQsNjcyMzQ2MjkyLC0yMTI1MjYy
-NTE4LC0xNTIzMTIwMDc2LC0xOTkwMDE1NzIwLDg2ODU1MjExMi
-wxODkzMDYzODI2LC0xNjQwNjc2NTQyLDE2NTAwMDQ0MjgsMTU3
-ODA0NzI5OCwxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAsMTcwMDcwOT
-I5OV19
+eyJoaXN0b3J5IjpbMTI4ODE5MjA3MSwzODQ3OTM3NjEsLTE3OD
+E3NjAwODcsLTEzNjk4ODA0NjIsMTE0NzE0MDcwNCw2NzIzNDYy
+OTIsLTIxMjUyNjI1MTgsLTE1MjMxMjAwNzYsLTE5OTAwMTU3Mj
+AsODY4NTUyMTEyLDE4OTMwNjM4MjYsLTE2NDA2NzY1NDIsMTY1
+MDAwNDQyOCwxNTc4MDQ3Mjk4LDE2NDg0NTc0NTgsMTIyNDQ0ND
+M5MCwxNzAwNzA5Mjk5XX0=
 -->
