@@ -34,7 +34,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 |:--|:--|:--|
 |G1| Chiusura | $\forall g_{1},g_{2} \in G, g_{1} \circ g_{2} \in G$|
 |G2| Identità |Esiste un elemento identità $e \in G$ tale che per ogni $g \in G$ $$g \circ e = g = e \circ g $$|
-|G3| Inverso | Per ogni $g \in G$ esiste un elemento inverso $g^{-1}  \in G$ tale che $$ g \circ g^{-1} = e =$$|
+|G3| Inverso | Per ogni $g \in G$ esiste un elemento inverso $g^{-1}  \in G$ tale che $$ g \circ g^{-1} = e = $$|
 |G4|Associatività |dd |
 
  
@@ -45,7 +45,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODU1ODkxMSwtMTQ4MDU0MDk0NiwtMj
+eyJoaXN0b3J5IjpbLTE1NzI1OTg4NjMsMTM5ODU1ODkxMSwtMj
 E0MjY4ODY4OCwxMjI2MzE0MjYsMzM3NzE5Mzc3LDExMjIzMTU1
 NzgsLTE5MTE0MzA4ODAsLTIwMTA4MzIwODksLTEzMTU3NzczOC
 wtMTI3ODIwMDcwOSw0MTA2MTc4NDYsLTk5NDI4MTg3MCwtMTM0
