@@ -36,7 +36,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $G$ 
 |G2| Identità |Esiste un elemento identità $e \in G$ tale che per ogni $g \in G$ $$g \circ e = g = e \circ g $$|
 |G3| Inverso | Per ogni $g \in G$ esiste un elemento inverso $g^{-1}  \in G$ tale che $$ g \circ g^{-1} = e = g^{-1} \circ g$$|
 |G4|Associatività |Per ogni $g_{1},g_{2},g_{3} \in G$, 
-$$g_{1} \circ (g_{2} \circ g_{3}) = (g_{1} \circ g_{2}) \circ g_{3})$$  |
+$$g_{1} \circ (g_{2} \circ g_{3}) = (g_{1} \circ g_{2}) \circ g_{3}$$  |
 
  
 
@@ -46,11 +46,11 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzU2NDU3NCw5OTAwMzA2MDcsLTM2OT
-E2OTIwNiwtMTU3MjU5ODg2MywxMzk4NTU4OTExLC0yMTQyNjg4
-Njg4LDEyMjYzMTQyNiwzMzc3MTkzNzcsMTEyMjMxNTU3OCwtMT
-kxMTQzMDg4MCwtMjAxMDgzMjA4OSwtMTMxNTc3NzM4LC0xMjc4
-MjAwNzA5LDQxMDYxNzg0NiwtOTk0MjgxODcwLC0xMzQzMjA4ND
-M0LC00NzUwOTkwMzEsLTExNzQ4MzUxNzksMTYxODI3NjI0NF19
-
+eyJoaXN0b3J5IjpbLTQ3NjIyMzY5OSwtODU3NTY0NTc0LDk5MD
+AzMDYwNywtMzY5MTY5MjA2LC0xNTcyNTk4ODYzLDEzOTg1NTg5
+MTEsLTIxNDI2ODg2ODgsMTIyNjMxNDI2LDMzNzcxOTM3NywxMT
+IyMzE1NTc4LC0xOTExNDMwODgwLC0yMDEwODMyMDg5LC0xMzE1
+Nzc3MzgsLTEyNzgyMDA3MDksNDEwNjE3ODQ2LC05OTQyODE4Nz
+AsLTEzNDMyMDg0MzQsLTQ3NTA5OTAzMSwtMTE3NDgzNTE3OSwx
+NjE4Mjc2MjQ0XX0=
 -->
