@@ -40,7 +40,7 @@ Sia $G$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G,
 In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico inverso. Inoltre, se se $g \in G$ allora ${(g^{-1})}^{-1} = g$.
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
-L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato e  
+L'**ordine** di un elemento $g$ di un gruppo $G$ è il minimo intero positivo $n$ tale che $g^{n} = e$. Se non esiste un tale numero intero allora si dice che $g$ ha **ordine infinito**. Un gruppo $G$ si dice  **ciclico** se tutti i suoi elementi sono della forma $g^{n}$ per un determinato element  
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
@@ -60,12 +60,12 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQxMTA3MzAsMTQ0NzQ4OTU5NSwtOT
-U4NTk5ODE0LC0xMjQ4MTAyMDE2LC0xNTA0MTcxMDcsLTE1MTE3
-MzEwNTAsMTk2OTI3Njc0MSwyNTczNjA4NywzODQ3OTM3NjEsLT
-E3ODE3NjAwODcsLTEzNjk4ODA0NjIsMTE0NzE0MDcwNCw2NzIz
-NDYyOTIsLTIxMjUyNjI1MTgsLTE1MjMxMjAwNzYsLTE5OTAwMT
-U3MjAsODY4NTUyMTEyLDE4OTMwNjM4MjYsLTE2NDA2NzY1NDIs
-MTY1MDAwNDQyOCwxNTc4MDQ3Mjk4LDE2NDg0NTc0NTgsMTIyND
-Q0NDM5MCwxNzAwNzA5Mjk5XX0=
+eyJoaXN0b3J5IjpbMzU0MTEzMjkzLC0xNzc0MTEwNzMwLC05NT
+g1OTk4MTQsLTEyNDgxMDIwMTYsLTE1MDQxNzEwNywtMTUxMTcz
+MTA1MCwxOTY5Mjc2NzQxLDI1NzM2MDg3LDM4NDc5Mzc2MSwtMT
+c4MTc2MDA4NywtMTM2OTg4MDQ2MiwxMTQ3MTQwNzA0LDY3MjM0
+NjI5MiwtMjEyNTI2MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAxNT
+cyMCw4Njg1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0Miwx
+NjUwMDA0NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0ND
+Q0MzkwLDE3MDA3MDkyOTldfQ==
 -->
