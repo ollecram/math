@@ -41,7 +41,7 @@ In ogni gruppo l'elemento identità è unico ed ogni elemento ha un unico invers
 se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1} \circ g_{2} = g_{2} \circ g_{1}$ per ogni $g_{1}, g_{2} \in G$) diciamo che il gruppo è **commutativo** o **Abeliano**.
 
 ### Sottogruppi ###
-Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere 
+Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere c
 
 
 
@@ -52,8 +52,8 @@ Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjU0MjQwOSwtMTk5MDAxNTcyMCw4Nj
-g1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0
-NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLD
-E3MDA3MDkyOTldfQ==
+eyJoaXN0b3J5IjpbLTE1MjMxMjAwNzYsMjEwMjU0MjQwOSwtMT
+k5MDAxNTcyMCw4Njg1NTIxMTIsMTg5MzA2MzgyNiwtMTY0MDY3
+NjU0MiwxNjUwMDA0NDI4LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OC
+wxMjI0NDQ0MzkwLDE3MDA3MDkyOTldfQ==
 -->
