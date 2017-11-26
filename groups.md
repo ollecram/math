@@ -54,7 +54,8 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H \subset G$ un sottoinsie
 
 Per un gruppo $G$ di **ordine finito** vale il **Teorema di Lagrange** secondo il quale l'ordine di ogni sottogruppo di $G$ divide l'ordine di $G$. 
 
-### Isomorfismi #
+### Isomorfismi ###
+
 
 
 
@@ -64,14 +65,14 @@ Per un gruppo $G$ di **ordine finito** vale il **Teorema di Lagrange** secondo i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUzNTAyNTIsNDE5OTAyNzk3LC0yMD
-AyNjMzMTYsMTM5NzI5MTM1MSwtOTY5ODE2MjM3LC00NTM2NTU1
-OTQsLTI1MzkyOTIzLC0yMDU0MTY5NTcwLC05NTg1OTk4MTQsLT
-EyNDgxMDIwMTYsLTE1MDQxNzEwNywtMTUxMTczMTA1MCwxOTY5
-Mjc2NzQxLDI1NzM2MDg3LDM4NDc5Mzc2MSwtMTc4MTc2MDA4Ny
-wtMTM2OTg4MDQ2MiwxMTQ3MTQwNzA0LDY3MjM0NjI5MiwtMjEy
-NTI2MjUxOCwtMTUyMzEyMDA3NiwtMTk5MDAxNTcyMCw4Njg1NT
-IxMTIsMTg5MzA2MzgyNiwtMTY0MDY3NjU0MiwxNjUwMDA0NDI4
-LDE1NzgwNDcyOTgsMTY0ODQ1NzQ1OCwxMjI0NDQ0MzkwLDE3MD
-A3MDkyOTldfQ==
+eyJoaXN0b3J5IjpbLTE0NzQxMDM0NTQsLTE0NDUzNTAyNTIsLT
+IwMDI2MzMxNiwxMzk3MjkxMzUxLC05Njk4MTYyMzcsLTQ1MzY1
+NTU5NCwtMjUzOTI5MjMsLTIwNTQxNjk1NzAsLTk1ODU5OTgxNC
+wtMTI0ODEwMjAxNiwtMTUwNDE3MTA3LC0xNTExNzMxMDUwLDE5
+NjkyNzY3NDEsMjU3MzYwODcsMzg0NzkzNzYxLC0xNzgxNzYwMD
+g3LC0xMzY5ODgwNDYyLDExNDcxNDA3MDQsNjcyMzQ2MjkyLC0y
+MTI1MjYyNTE4LC0xNTIzMTIwMDc2LC0xOTkwMDE1NzIwLDg2OD
+U1MjExMiwxODkzMDYzODI2LC0xNjQwNjc2NTQyLDE2NTAwMDQ0
+MjgsMTU3ODA0NzI5OCwxNjQ4NDU3NDU4LDEyMjQ0NDQzOTAsMT
+cwMDcwOTI5OV19
 -->
