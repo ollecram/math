@@ -19,7 +19,8 @@ In effetti capita in diversi contesti di definire una certa operazione $\diamond
 $$ c \diamond (b \diamond a) = (c \diamond b) \diamond a$$
 Un approccio alla soluzione è tentare l'identificazione di ciascun elemento $x$ dell'insieme $A$ con una *trasformazione* dell'insieme $A$ in se stesso. Se questa identificazione è possibile la risposta è positiva in virtù delle associatività della composizione di funzioni.
 
-Per fare un esempio concreto, consideriamo l'insieme $\cal Z$ degli interi naturali rendere 
+Per fare un esempio concreto, consideriamo l'insieme $\cal{Z}$
+$ degli interi naturali rendere 
 
 
  
@@ -28,7 +29,7 @@ A quick primer into group theory is provider in Appendix I of "Geometry" (Branna
 
 $$ \sqrt{x^2} = x $$  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk5OTY2OTMsLTExODQ4MTA2NTAsMT
-E3OTIzNTk0MSw4MjIwNjczNzMsLTUwNTA0NTcxOCwtMzk0MDEz
-NjBdfQ==
+eyJoaXN0b3J5IjpbMTc3MzE5MDQxMywtMTE4NDgxMDY1MCwxMT
+c5MjM1OTQxLDgyMjA2NzM3MywtNTA1MDQ1NzE4LC0zOTQwMTM2
+MF19
 -->
