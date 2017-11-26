@@ -42,7 +42,7 @@ se l'operazione binaria $\circ$ di un gruppo $G$ è **commutativa** (cioè $g_{1
 
 ### Sottogruppi ###
 Un sottoinsieme $H$ di un gruppo $G$ è un **sottogruppo** di $G$ se esso è un gruppo rispetto alla medesima operazione binaria. Ciò si può esprimere con maggior precisione nel modo seguente. 
-Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H$ un insieme e $\circ$ una operazione binaria definita su $G$. Allora $(G, \circ )$ è un **gruppo** rispetto all'*operazione* $\circ$ se valgono i seguenti quattro assiomi.
+Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H$ un sottoinsieme e $\circ$ una operazione binaria definita su $G$. Allora $(G, \circ )$ è un **gruppo** rispetto all'*operazione* $\circ$ se valgono i seguenti quattro assiomi.
 
 
 
@@ -53,7 +53,7 @@ Sia $(G, \circ )$ un gruppo con identità $e$, e sia $H$ un insieme e $\circ$ un
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk5Njk2NTcsLTIxMjUyNjI1MTgsLT
+eyJoaXN0b3J5IjpbLTE5NTE3MDEyNTAsLTIxMjUyNjI1MTgsLT
 E1MjMxMjAwNzYsLTE5OTAwMTU3MjAsODY4NTUyMTEyLDE4OTMw
 NjM4MjYsLTE2NDA2NzY1NDIsMTY1MDAwNDQyOCwxNTc4MDQ3Mj
 k4LDE2NDg0NTc0NTgsMTIyNDQ0NDM5MCwxNzAwNzA5Mjk5XX0=
